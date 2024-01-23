@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Full stack web development, basketball, anime, soo much more!
 - 🌱 I’m currently learning Core Data Analytics
 - 📚 I'm currently pursuing Bachelor's Of Computer Applications in Jain University
-- 💞️ I’m looking to collaborate on anything! (I'm an oppertunist)
+- 💞️ I’m looking to collaborate on anything! (I'm an opportunist)
 
 ## Skills at a Glance 🚀
 
